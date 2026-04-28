@@ -1,5 +1,4 @@
 # MİNİ GÖREV YÖNETİM SİSTEMİ
-
 gorevler = []
 def gorev_ekle():
     gorev = input("Yeni görev: ")
@@ -40,11 +39,3 @@ def menu():
         else:
             print("Hatalı seçim!")
 menu()
-
-
-
-
-
-
-
-

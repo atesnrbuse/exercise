@@ -16,6 +16,3 @@ def harcama_takip():
     print("günlük ortalama:", ortalama)
     print(durum)
 harcama_takip()
-
-
-
