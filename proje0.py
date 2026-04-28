@@ -50,4 +50,3 @@ for ogr in ogrenciler:
 print(f"sınıf ortalaması: {sinif_ortalamasi}")
 print(f"En Başarılı {en_basarili["isim"]} , {en_basarili["not ortalamanız"]}")
 print(f"En Başarısız {en_basarisiz["isim"]} , {en_basarisiz["not ortalamanız"]}")
-
